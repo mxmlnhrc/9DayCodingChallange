@@ -1,6 +1,4 @@
 import random
-import time
-from os import system
 
 words_easy = ['hello', 'my', 'you', 'we', 'look', 'view', 'abc']
 words_medium = ['I', 'except', 'mountain', 'rock', 'week', 'wealth']
